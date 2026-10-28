@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+pyrit-env/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Local databases and secrets
+*.db
+*.sqlite3
+.env
